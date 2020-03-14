@@ -1,0 +1,13 @@
+C:\Users\Yasir\source\repos\newWebAPI\newWebAPI\bin\Debug\netcoreapp2.2\newWebAPI.deps.json
+C:\Users\Yasir\source\repos\newWebAPI\newWebAPI\bin\Debug\netcoreapp2.2\newWebAPI.runtimeconfig.json
+C:\Users\Yasir\source\repos\newWebAPI\newWebAPI\bin\Debug\netcoreapp2.2\newWebAPI.runtimeconfig.dev.json
+C:\Users\Yasir\source\repos\newWebAPI\newWebAPI\bin\Debug\netcoreapp2.2\newWebAPI.dll
+C:\Users\Yasir\source\repos\newWebAPI\newWebAPI\bin\Debug\netcoreapp2.2\newWebAPI.pdb
+C:\Users\Yasir\source\repos\newWebAPI\newWebAPI\obj\Debug\netcoreapp2.2\newWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Yasir\source\repos\newWebAPI\newWebAPI\obj\Debug\netcoreapp2.2\newWebAPI.RazorAssemblyInfo.cache
+C:\Users\Yasir\source\repos\newWebAPI\newWebAPI\obj\Debug\netcoreapp2.2\newWebAPI.RazorAssemblyInfo.cs
+C:\Users\Yasir\source\repos\newWebAPI\newWebAPI\obj\Debug\netcoreapp2.2\newWebAPI.AssemblyInfoInputs.cache
+C:\Users\Yasir\source\repos\newWebAPI\newWebAPI\obj\Debug\netcoreapp2.2\newWebAPI.AssemblyInfo.cs
+C:\Users\Yasir\source\repos\newWebAPI\newWebAPI\obj\Debug\netcoreapp2.2\newWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Yasir\source\repos\newWebAPI\newWebAPI\obj\Debug\netcoreapp2.2\newWebAPI.dll
+C:\Users\Yasir\source\repos\newWebAPI\newWebAPI\obj\Debug\netcoreapp2.2\newWebAPI.pdb

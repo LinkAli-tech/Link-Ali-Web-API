@@ -1,0 +1,14 @@
+C:\Users\Yasir\source\repos\User-API\User-API\bin\Debug\netcoreapp2.2\User_API.deps.json
+C:\Users\Yasir\source\repos\User-API\User-API\bin\Debug\netcoreapp2.2\User_API.runtimeconfig.json
+C:\Users\Yasir\source\repos\User-API\User-API\bin\Debug\netcoreapp2.2\User_API.runtimeconfig.dev.json
+C:\Users\Yasir\source\repos\User-API\User-API\bin\Debug\netcoreapp2.2\User_API.dll
+C:\Users\Yasir\source\repos\User-API\User-API\bin\Debug\netcoreapp2.2\User_API.pdb
+C:\Users\Yasir\source\repos\User-API\User-API\obj\Debug\netcoreapp2.2\User_API.csproj.CoreCompileInputs.cache
+C:\Users\Yasir\source\repos\User-API\User-API\obj\Debug\netcoreapp2.2\User_API.RazorAssemblyInfo.cache
+C:\Users\Yasir\source\repos\User-API\User-API\obj\Debug\netcoreapp2.2\User_API.RazorAssemblyInfo.cs
+C:\Users\Yasir\source\repos\User-API\User-API\obj\Debug\netcoreapp2.2\User_API.AssemblyInfoInputs.cache
+C:\Users\Yasir\source\repos\User-API\User-API\obj\Debug\netcoreapp2.2\User_API.AssemblyInfo.cs
+C:\Users\Yasir\source\repos\User-API\User-API\obj\Debug\netcoreapp2.2\User_API.RazorTargetAssemblyInfo.cache
+C:\Users\Yasir\source\repos\User-API\User-API\obj\Debug\netcoreapp2.2\User_API.dll
+C:\Users\Yasir\source\repos\User-API\User-API\obj\Debug\netcoreapp2.2\User_API.pdb
+C:\Users\Yasir\source\repos\User-API\User-API\obj\Debug\netcoreapp2.2\User_API.csprojAssemblyReference.cache
